@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "minnecraft": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "trojaner_:loop"
+    }
+}
